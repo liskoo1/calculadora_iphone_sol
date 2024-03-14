@@ -23,7 +23,7 @@
         <Label x:Name="lblEjercicio6" Content="Ejercicio 6" HorizontalContentAlignment="Center" Foreground="#FFEDE2E2"/>
         <StackPanel Height="564">
             <StackPanel.Background>
-                <ImageBrush ImageSource="Resource/celular.png"></ImageBrush>
+                <ImageBrush ImageSource="./Resource/celular.png"></ImageBrush>
             </StackPanel.Background>
             <TextBlock x:Name="txt1" TextWrapping="Wrap" Margin="0,97,81,0" Height="30" HorizontalAlignment="Right"/>
             <TextBlock x:Name="txt2" TextWrapping="Wrap" Height="30" HorizontalAlignment="Right" Margin="0,9,78,0" Foreground="#FFD2A62C" Width="16"/>
